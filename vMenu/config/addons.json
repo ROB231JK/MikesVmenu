@@ -1,0 +1,103 @@
+{
+  "vehicles": [
+    "dk350z",
+    "sultanrs",
+	"f430s",
+	"540L",
+	"lansheng",
+	"205GTti",
+	"tibmw",
+	"tibmw2",
+	"r35",
+	"155alfa",
+	"amggtr",
+	"apexe30",
+	"vgt12",
+	"contss18",
+	"benz190e",
+	"rass",
+	"cosworth",
+	"e34touring",
+	"f82hs",
+	"f82lw",
+	"f82duke",
+	"f824slw",
+	"f82st",
+	"enkei",
+	"i8",
+	"m3tp",
+	"rmodm3e36",
+	"briosoc1",
+	"briosoc2",
+	"briosoc3",
+	"comet2",
+	"riot",
+	"boxville4",
+	"evo9",
+	"subwrx"
+	"sprint",
+	"sprint2",
+	"sprint3",
+	"boxville2",
+	"575m",
+	"718caymans",
+	"18performante",
+	"lw458s",
+	"rmodlp770",
+	"205s",
+	"clio",
+	"caracara2",
+	"drafter",
+	"dynasty",
+	"emerus",
+	"gauntlet3",
+	"gauntlet4",
+	"zorrusso",
+	"hellion",
+	"issi7",
+	"jugular",
+	"krieger",
+	"locust",
+	"nebula",
+	"zion3",
+	"peyote2",
+	"rrocket",
+	"s80",
+	"thrax",
+	"neo",
+	"novak",
+	"paragon",
+	"retinue2",
+	"sugoi",
+	"vstr",
+	"yosemite2",
+	"zhaba",
+	"civic7th",
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+  ],
+  "peds": [
+    "addonpedname1",
+    "addonpedname2"
+  ],
+  "weapons": [
+    "addonweaponname1",
+    "addonweaponname2"
+  ],
+  "weapon_components": [
+    "weapon_component_name_1",
+    "weapon_component_name_2"
+  ]
+}
